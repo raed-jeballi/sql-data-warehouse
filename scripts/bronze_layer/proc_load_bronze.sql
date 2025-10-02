@@ -36,6 +36,7 @@ BEGIN
 		TRUNCATE TABLE bronze.crm_cust_info;
 		PRINT '>> Inserting Data Into: bronze.crm_cust_info';
 		BULK INSERT bronze.crm_cust_info
+			-- change the link bellow--
 		FROM 'C:\Users\raed_\OneDrive\Bureau\sql-data-warehouse-project\datasets\source_crm\cust_info.csv'
 		WITH (
 			FIRSTROW = 2,
