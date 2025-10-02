@@ -28,7 +28,8 @@ This project involves:
 - **[SQL Server Management Studio (SSMS)]:** GUI for managing and interacting with databases.
 - **[DrawIO]:** Design data architecture, models, flows, and diagrams.
 - **[Notion]:** Organize projects, manage workflows
-- **[Notion project steps]:(https://gamy-ceres-1b5.notion.site/Data-Warehouse-Project-27aff3eaf8ba807d9e46db91850a5080?pvs=143)**
+- **[Notion project steps](https://gamy-ceres-1b5.notion.site/Data-Warehouse-Project-27aff3eaf8ba807d9e46db91850a5080?pvs=143):**
+ Access to All Project Phases and Tasks.
 
 ## 🚀 Project Requirements
 
