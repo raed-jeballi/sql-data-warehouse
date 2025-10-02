@@ -87,7 +87,7 @@ data-warehouse-project/
 ---
 ## 🌟 About Me
 
-Hi there! I'm **Raed Jaballi** a **Data Engineer and Data Enthusiast**.  
+Hi there! I'm **Raed Jaballi** a **Data Engineer** and **Data Enthusiast**.  
 I’m passionate about turning ideas into real projects and making technology both useful and fun to work with.  
 
 This project is part of my journey to learn, build, and share knowledge with the community. 🚀  
