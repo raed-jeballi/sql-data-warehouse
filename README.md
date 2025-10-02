@@ -95,5 +95,5 @@ This project is part of my journey to learn, build, and share knowledge with the
 Let’s stay connected! You can find me here:  
 - 🌐 [Portfolio/Website](#)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/raed-jaballi/)  
-- 📧 [Email](raed_jaballi@outlook.com)  
+- 📧 [Email](mailto:raed_jaballi@outlook.com)  
 
