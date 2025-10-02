@@ -83,3 +83,17 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
+
+---
+## 🌟 About Me
+
+Hi there! I'm **[Raed Jaballi]** — a [ Data Enthusiast / Data Engineer].  
+I’m passionate about turning ideas into real projects and making technology both useful and fun to work with.  
+
+This project is part of my journey to learn, build, and share knowledge with the community. 🚀  
+
+Let’s stay connected! You can find me here:  
+- 🌐 [Portfolio/Website](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/raed-jaballi/)  
+- 📧 [Email](raed_jaballi@outlook.com)  
+
