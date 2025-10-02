@@ -54,6 +54,7 @@ BEGIN
 
 		PRINT '>> Inserting Data Into: bronze.crm_prd_info';
 		BULK INSERT bronze.crm_prd_info
+				-- change the link bellow--
 		FROM 'C:\Users\raed_\OneDrive\Bureau\sql-data-warehouse-project\datasets\source_crm\prd_info.csv'
 		WITH (
 			FIRSTROW = 2,
@@ -69,6 +70,7 @@ BEGIN
 		TRUNCATE TABLE bronze.crm_sales_details;
 		PRINT '>> Inserting Data Into: bronze.crm_sales_details';
 		BULK INSERT bronze.crm_sales_details
+				-- change the link bellow--
 		FROM 'C:\Users\raed_\OneDrive\Bureau\sql-data-warehouse-project\datasets\source_crm\sales_details.csv'
 		WITH (
 			FIRSTROW = 2,
@@ -88,6 +90,7 @@ BEGIN
 		TRUNCATE TABLE bronze.erp_loc_a101;
 		PRINT '>> Inserting Data Into: bronze.erp_loc_a101';
 		BULK INSERT bronze.erp_loc_a101
+				-- change the link bellow--
 		FROM 'C:\Users\raed_\OneDrive\Bureau\sql-data-warehouse-project\datasets\source_erp\loc_a101.csv'
 		WITH (
 			FIRSTROW = 2,
@@ -103,6 +106,7 @@ BEGIN
 		TRUNCATE TABLE bronze.erp_cust_az12;
 		PRINT '>> Inserting Data Into: bronze.erp_cust_az12';
 		BULK INSERT bronze.erp_cust_az12
+				-- change the link bellow--
 		FROM 'C:\Users\raed_\OneDrive\Bureau\sql-data-warehouse-project\datasets\source_erp\cust_az12.csv'
 		WITH (
 			FIRSTROW = 2,
@@ -118,6 +122,7 @@ BEGIN
 		TRUNCATE TABLE bronze.erp_px_cat_g1v2;
 		PRINT '>> Inserting Data Into: bronze.erp_px_cat_g1v2';
 		BULK INSERT bronze.erp_px_cat_g1v2
+				-- change the link bellow--
 		FROM 'C:\Users\raed_\OneDrive\Bureau\sql-data-warehouse-project\datasets\source_erp\px_cat_g1v2.csv'
 		WITH (
 			FIRSTROW = 2,
